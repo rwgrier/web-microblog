@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Ryan Grier (Micro) Blog",
+	"icon": "https://micro.blog/rwgrier/avatar.jpg",
+	"home_page_url": "https://microblog.ryangrier.com/",
+	"feed_url": "https://microblog.ryangrier.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://rwgrier.micro.blog/2025/12/18/a-micro-blogging-reboot/",
+				"title": "A (Micro) Blogging Reboot",
+				"content_html": "<p>You may have noticed that I&rsquo;ve re-enabled a bit of a blogging feature here on the site. It&rsquo;s a micro blog. I&rsquo;m using <a href=\"https://micro.blog\">micro.blog</a> to host the (micro) blog.</p>\n<p>I&rsquo;ve used micro.blog in the past and enjoyed it. I also like supporting small independent developers. I&rsquo;m glad to be back.</p>\n<p>I will not be bringing over any previous posts. You can get to those in the (archived) GitHub repo (<a href=\"https://github.com/rwgrier/blog.ryangrier.com\">blog.ryangrier.com</a>). This is a clean slate.</p>\n<p>The plan is to use this (micro) blog to post a mixture of short/long form posts.</p>\n<p>When I had my previous blog going, I tried to focus on tech-related posts. That didn&rsquo;t work out for me. I would post infrequently. I eventually gave up. I hope that a mix of short/long posts I&rsquo;ll post a bit more.</p>\n<p>We&rsquo;ll see how this goes. Stay tuned?</p>\n",
+				"content_text": "You may have noticed that I've re-enabled a bit of a blogging feature here on the site. It's a micro blog. I'm using [micro.blog](https://micro.blog) to host the (micro) blog. \n\nI've used micro.blog in the past and enjoyed it. I also like supporting small independent developers. I'm glad to be back. \n\nI will not be bringing over any previous posts. You can get to those in the (archived) GitHub repo ([blog.ryangrier.com](https://github.com/rwgrier/blog.ryangrier.com)). This is a clean slate. \n\nThe plan is to use this (micro) blog to post a mixture of short/long form posts. \n\nWhen I had my previous blog going, I tried to focus on tech-related posts. That didn't work out for me. I would post infrequently. I eventually gave up. I hope that a mix of short/long posts I'll post a bit more. \n\nWe'll see how this goes. Stay tuned?\n",
+				"date_published": "2025-12-18T22:11:00-05:00",
+				"url": "https://microblog.ryangrier.com/2025/12/18/a-micro-blogging-reboot/",
+				"tags": ["Blog Post"]
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2025/12/18/hollow-knight/",
+				"title": "Hollow Knight",
+				"content_html": "<p>I started playing <a href=\"https://www.nintendo.com/us/store/products/hollow-knight-switch/\">Hollow Knight</a> this week. I’m only a few years late on this game.</p>\n",
+				"content_text": "I started playing [Hollow Knight](https://www.nintendo.com/us/store/products/hollow-knight-switch/) this week. I’m only a few years late on this game. \n",
+				"date_published": "2025-12-18T13:58:31-05:00",
+				"url": "https://microblog.ryangrier.com/2025/12/18/hollow-knight/",
+				"tags": ["Video Games"]
+			}
+	]
+}
