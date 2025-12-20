@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2025/12/20/we-watched-elf-last-night/",
+				
+				"content_html": "<p>We watched <a href=\"https://www.themoviedb.org/movie/10719\">Elf</a> last night. Another Christmas favorite. 🍿</p>\n",
+				"content_text": "We watched [Elf](https://www.themoviedb.org/movie/10719) last night. Another Christmas favorite. 🍿\n",
+				"date_published": "2025-12-20T17:24:18-05:00",
+				"url": "https://microblog.ryangrier.com/2025/12/20/we-watched-elf-last-night/"
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2025/12/19/we-watched-national-lampoons-christmas/",
+				
+				"content_html": "<p>We watched <a href=\"https://www.themoviedb.org/movie/5825\">National Lampoon&rsquo;s Christmas Vacation</a> last night. It’s a staple Christmas movie at our house. 🍿</p>\n",
+				"content_text": "We watched [National Lampoon's Christmas Vacation](https://www.themoviedb.org/movie/5825) last night. It’s a staple Christmas movie at our house. 🍿\n",
+				"date_published": "2025-12-19T08:35:20-05:00",
+				"url": "https://microblog.ryangrier.com/2025/12/19/we-watched-national-lampoons-christmas/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2025/12/18/a-micro-blogging-reboot/",
 				"title": "A (Micro) Blogging Reboot",
 				"content_html": "<p>You may have noticed that I&rsquo;ve re-enabled a bit of a blogging feature here on the site. It&rsquo;s a micro blog. I&rsquo;m using <a href=\"https://micro.blog\">micro.blog</a> to host the (micro) blog.</p>\n<p>I&rsquo;ve used micro.blog in the past and enjoyed it. I also like supporting small independent developers. I&rsquo;m glad to be back.</p>\n<p>I will not be bringing over any previous posts. You can get to those in the (archived) GitHub repo (<a href=\"https://github.com/rwgrier/blog.ryangrier.com\">blog.ryangrier.com</a>). This is a clean slate.</p>\n<p>The plan is to use this (micro) blog to post a mixture of short/long form posts.</p>\n<p>When I had my previous blog going, I tried to focus on tech-related posts. That didn&rsquo;t work out for me. I would post infrequently. I eventually gave up. I hope that a mix of short/long posts I&rsquo;ll post a bit more.</p>\n<p>We&rsquo;ll see how this goes. Stay tuned?</p>\n",
