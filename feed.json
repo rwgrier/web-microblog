@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/01/29/its-a-cold-one-out/",
+				
+				"content_html": "<p>It’s a cold one out there. 4° F. ❄️🥶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s a cold one out there. 4° F. ❄️🥶\n\n<img src=\"uploads/2026/5640e40b20.jpg\" width=\"600\" height=\"501\" alt=\"A weather app screen shows a temperature of 4°F, a humorous message about ICE agents slipping, and a whimsical night sky illustration.\">\n",
+				"date_published": "2026-01-29T07:10:04-05:00",
+				"url": "https://microblog.ryangrier.com/2026/01/29/its-a-cold-one-out/"
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2026/01/25/apple-weather-just-hasnt-been/",
+				
+				"content_html": "<p>Apple Weather just hasn’t been good with this storm. Trying to tell me we’ve had 22” of snow so far. We’ve had maybe 8”. Switching back to Carrot Weather. ❄️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apple Weather just hasn’t been good with this storm. Trying to tell me we’ve had 22” of snow so far. We’ve had maybe 8”. Switching back to Carrot Weather. ❄️\n\n<img src=\"uploads/2026/image.jpg\" width=\"600\" height=\"315\" alt=\"A weather forecast display shows snowfall totals for the last 24 hours as 22 inches, with the next 24 hours predicting 2 to 4 inches of snow and less than 0.05 inches of wintry mix.\">\n",
+				"date_published": "2026-01-25T17:13:48-05:00",
+				"url": "https://microblog.ryangrier.com/2026/01/25/apple-weather-just-hasnt-been/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/01/25/the-pups-have-absolutely-loved/",
 				
 				"content_html": "<p>The pups have absolutely loved the snow today. They have had coats and boots on. They just want to be outside. ❄️🐶</p>\n",
