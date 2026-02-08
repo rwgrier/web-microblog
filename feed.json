@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/02/08/watching-the-super-bowl-last/",
+				
+				"content_html": "<p>Watching the Super Bowl. Last year’s was better. Go birds!</p>\n",
+				"content_text": "Watching the Super Bowl. Last year’s was better. Go birds! \n",
+				"date_published": "2026-02-08T18:50:15-05:00",
+				"url": "https://microblog.ryangrier.com/2026/02/08/watching-the-super-bowl-last/"
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2026/02/07/spent-some-time-today-upgrading/",
+				
+				"content_html": "<p>Spent some time today upgrading our home networking from eero to ubiquity. It was painless. I also ran Ethernet to my wife’s office and tidied up her cable situation. Tidying up the cables took the most time. 😆 🛜</p>\n",
+				"content_text": "Spent some time today upgrading our home networking from eero to ubiquity. It was painless. I also ran Ethernet to my wife’s office and tidied up her cable situation. Tidying up the cables took the most time. 😆 🛜\n",
+				"date_published": "2026-02-07T18:57:02-05:00",
+				"url": "https://microblog.ryangrier.com/2026/02/07/spent-some-time-today-upgrading/"
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2026/02/07/i-cant-wait-for-summer/",
+				
+				"content_html": "<p>I can’t wait for Summer. Winter is the worst. 🥶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I can’t wait for Summer. Winter is the worst. 🥶\n\n<img src=\"uploads/2026/b31fe607a9.jpg\" width=\"600\" height=\"501\" alt=\"A weather app interface displays a temperature of 10° with a feels-like temperature of -6°, against a starry night sky scene.\">\n",
+				"date_published": "2026-02-07T17:41:51-05:00",
+				"url": "https://microblog.ryangrier.com/2026/02/07/i-cant-wait-for-summer/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/02/06/watching-the-winter-olympics-opening/",
 				
 				"content_html": "<p>Watching the Winter Olympics Opening Ceremonies. 🇺🇸</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://rwgrier.micro.blog/2026/01/29/its-a-cold-one-out/",
 				
 				"content_html": "<p>It’s a cold one out there. 4° F. ❄️🥶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s a cold one out there. 4° F. ❄️🥶\n\n<img src=\"uploads/2026/5640e40b20.jpg\" width=\"600\" height=\"501\" alt=\"A weather app screen shows a temperature of 4°F, a humorous message about ICE agents slipping, and a whimsical night sky illustration.\">\n",
+				"content_text": "It’s a cold one out there. 4° F. ❄️🥶\n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/5640e40b20.jpg\" width=\"600\" height=\"501\" alt=\"A weather app screen shows a temperature of 4°F, a humorous message about ICE agents slipping, and a whimsical night sky illustration.\">\n",
 				"date_published": "2026-01-29T07:10:04-05:00",
 				"url": "https://microblog.ryangrier.com/2026/01/29/its-a-cold-one-out/"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://rwgrier.micro.blog/2026/01/25/apple-weather-just-hasnt-been/",
 				
 				"content_html": "<p>Apple Weather just hasn’t been good with this storm. Trying to tell me we’ve had 22” of snow so far. We’ve had maybe 8”. Switching back to Carrot Weather. ❄️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apple Weather just hasn’t been good with this storm. Trying to tell me we’ve had 22” of snow so far. We’ve had maybe 8”. Switching back to Carrot Weather. ❄️\n\n<img src=\"uploads/2026/image.jpg\" width=\"600\" height=\"315\" alt=\"A weather forecast display shows snowfall totals for the last 24 hours as 22 inches, with the next 24 hours predicting 2 to 4 inches of snow and less than 0.05 inches of wintry mix.\">\n",
+				"content_text": "Apple Weather just hasn’t been good with this storm. Trying to tell me we’ve had 22” of snow so far. We’ve had maybe 8”. Switching back to Carrot Weather. ❄️\n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/image.jpg\" width=\"600\" height=\"315\" alt=\"A weather forecast display shows snowfall totals for the last 24 hours as 22 inches, with the next 24 hours predicting 2 to 4 inches of snow and less than 0.05 inches of wintry mix.\">\n",
 				"date_published": "2026-01-25T17:13:48-05:00",
 				"url": "https://microblog.ryangrier.com/2026/01/25/apple-weather-just-hasnt-been/"
 			},
