@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/04/12/ive-been-tinkering-with-claude/",
+				
+				"content_html": "<p>I’ve been tinkering with Claude Code, Gemini CLI, and Codex more recently. Claude Code was my favorite, but it’s taken a dive in the last week or two. It’s gotten slow and I hit my token limit much sooner than I used to. I’ve been relying on it less. 🤖</p>\n",
+				"content_text": "I’ve been tinkering with Claude Code, Gemini CLI, and Codex more recently. Claude Code was my favorite, but it’s taken a dive in the last week or two. It’s gotten slow and I hit my token limit much sooner than I used to. I’ve been relying on it less. 🤖\n",
+				"date_published": "2026-04-12T13:37:10-04:00",
+				"url": "https://microblog.ryangrier.com/2026/04/12/ive-been-tinkering-with-claude/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/04/10/i-woke-up-with-oxford/",
 				
 				"content_html": "<p>I woke up with <a href=\"https://music.apple.com/us/album/oxford-comma/270425072?i=270425147\">Oxford Comma</a> by Vampire Weekend on repeat in my head. 🎧</p>\n",
