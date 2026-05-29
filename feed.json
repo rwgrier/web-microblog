@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/05/28/the-mandalorian-and-grogu-was/",
+				
+				"content_html": "<p><em>The Mandalorian and Grogu</em> was a lot of fun. Would recommend. Paying $11 for a soda, not as much fun. I would see more movies in theaters if it wasn’t so expensive. 🍿</p>\n",
+				"content_text": "_The Mandalorian and Grogu_ was a lot of fun. Would recommend. Paying $11 for a soda, not as much fun. I would see more movies in theaters if it wasn’t so expensive. 🍿\n",
+				"date_published": "2026-05-28T21:05:48-04:00",
+				"url": "https://www.ryangrier.blog/2026/05/28/the-mandalorian-and-grogu-was/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/05/25/its-memorial-day-thank-you/",
 				
 				"content_html": "<p>It&rsquo;s Memorial Day. Thank you to all who have served or are serving. 🇺🇸</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://rwgrier.micro.blog/2026/05/15/pp-game-is-back-im/",
 				
 				"content_html": "<p>P00P game is back. I’m basically a 6 year old.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "P00P game is back. I’m basically a 6 year old. \n\n<img src=\"uploads/2026/29c6a3d39d.jpg\" width=\"600\" height=\"237\" alt=\"A baseball game scoreboard shows the Philadelphia Phillies and Pittsburgh Pirates tied at 0-0, with Bryce Harper fouling off a 93 mph slider from Braxton Ashcraft.\">\n",
+				"content_text": "P00P game is back. I’m basically a 6 year old. \n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/29c6a3d39d.jpg\" width=\"600\" height=\"237\" alt=\"A baseball game scoreboard shows the Philadelphia Phillies and Pittsburgh Pirates tied at 0-0, with Bryce Harper fouling off a 93 mph slider from Braxton Ashcraft.\">\n",
 				"date_published": "2026-05-15T18:46:47-04:00",
 				"url": "https://www.ryangrier.blog/2026/05/15/pp-game-is-back-im/"
 			},
