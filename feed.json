@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/06/27/spend-the-last-week-in/",
+				
+				"content_html": "<p>Spend the last week in Mexico. It was amazing. Maybe I’ll write about it at some point.</p>\n<p>Watched both the US and Mexico games in a sports bar. That was a ton of fun. ⚽️</p>\n",
+				"content_text": "Spend the last week in Mexico. It was amazing. Maybe I’ll write about it at some point. \n\nWatched both the US and Mexico games in a sports bar. That was a ton of fun. ⚽️\n",
+				"date_published": "2026-06-27T19:56:22-04:00",
+				"url": "https://www.ryangrier.blog/2026/06/27/spend-the-last-week-in/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/06/25/getting-ready-for-the-usa/",
 				
 				"content_html": "<p>Getting ready for the USA match. Go USA! 🇺🇸⚽️</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://rwgrier.micro.blog/2026/06/13/walking-through-west-chester-pa/",
 				
 				"content_html": "<p>Walking through West Chester, PA today. Doing some local shopping. Of course, I had to visit a bookstore.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walking through West Chester, PA today. Doing some local shopping. Of course, I had to visit a bookstore. \n\n<img src=\"uploads/2026/9477eb12ca.jpg\" width=\"600\" height=\"450\" alt=\"A cozy reading corner features a bookshelf filled with colorful books, a blue armchair, and a decorative rug.\">\n",
+				"content_text": "Walking through West Chester, PA today. Doing some local shopping. Of course, I had to visit a bookstore. \n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/9477eb12ca.jpg\" width=\"600\" height=\"450\" alt=\"A cozy reading corner features a bookshelf filled with colorful books, a blue armchair, and a decorative rug.\">\n",
 				"date_published": "2026-06-13T13:18:34-04:00",
 				"url": "https://www.ryangrier.blog/2026/06/13/walking-through-west-chester-pa/"
 			},
