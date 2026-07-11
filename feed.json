@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://rwgrier.micro.blog/2026/07/10/the-phillies-need-a-new/",
+				
+				"content_html": "<p>The Phillies need a new bullpen. ⚾️</p>\n",
+				"content_text": "The Phillies need a new bullpen. ⚾️\n",
+				"date_published": "2026-07-10T20:49:50-04:00",
+				"url": "https://www.ryangrier.blog/2026/07/10/the-phillies-need-a-new/"
+			},
+			{
+				"id": "http://rwgrier.micro.blog/2026/07/06/this-was-a-fun-run/",
+				
+				"content_html": "<p>This was a fun run for US during the World Cup. I just hope we qualify next time to give it another shot. 🇺🇸⚽️</p>\n",
+				"content_text": "This was a fun run for US during the World Cup. I just hope we qualify next time to give it another shot. 🇺🇸⚽️\n",
+				"date_published": "2026-07-06T21:57:10-04:00",
+				"url": "https://www.ryangrier.blog/2026/07/06/this-was-a-fun-run/"
+			},
+			{
 				"id": "http://rwgrier.micro.blog/2026/07/06/ready-for-the-us-game/",
 				
 				"content_html": "<p>Ready for the US game. Go USA! 🇺🇸⚽️</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://rwgrier.micro.blog/2026/07/01/hot-but-ill-take-this/",
 				
 				"content_html": "<p>Hot. But I’ll take this over subfreezing Winter weather.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hot. But I’ll take this over subfreezing Winter weather. \n\n<img src=\"uploads/2026/6dfa3c4f5d.jpg\" width=\"600\" height=\"501\" alt=\"A weather forecast shows a temperature of 93°F with a feeling of 111°F, cloudy with lightning, and includes a humorous warning not to let your Mogwai get wet.\">\n",
+				"content_text": "Hot. But I’ll take this over subfreezing Winter weather. \n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/6dfa3c4f5d.jpg\" width=\"600\" height=\"501\" alt=\"A weather forecast shows a temperature of 93°F with a feeling of 111°F, cloudy with lightning, and includes a humorous warning not to let your Mogwai get wet.\">\n",
 				"date_published": "2026-07-01T14:16:16-04:00",
 				"url": "https://www.ryangrier.blog/2026/07/01/hot-but-ill-take-this/"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://rwgrier.micro.blog/2026/06/29/mandatory-pp-game-post-go/",
 				
 				"content_html": "<p>Mandatory P00P game post. Go Phil’s! ⚾️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mandatory P00P game post. Go Phil’s! ⚾️\n\n<img src=\"uploads/2026/86818e51e8.jpg\" width=\"600\" height=\"209\" alt=\"A baseball game between the Pittsburgh Pirates and Philadelphia Phillies is scoreless in the bottom of the first inning with a play where Bryan Reynolds grounds out to second base, and Bryson Stott is thrown out by Bryce Harper.\">\n",
+				"content_text": "Mandatory P00P game post. Go Phil’s! ⚾️\n\n<img src=\"https://cdn.uploads.micro.blog/49/2026/86818e51e8.jpg\" width=\"600\" height=\"209\" alt=\"A baseball game between the Pittsburgh Pirates and Philadelphia Phillies is scoreless in the bottom of the first inning with a play where Bryan Reynolds grounds out to second base, and Bryson Stott is thrown out by Bryce Harper.\">\n",
 				"date_published": "2026-06-29T18:46:51-04:00",
 				"url": "https://www.ryangrier.blog/2026/06/29/mandatory-pp-game-post-go/"
 			},
